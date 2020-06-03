@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/otavioeiji/CursoEmVideo-MySQL)
+![GitHub language count](https://img.shields.io/github/languages/count/otavioeiji/CursoEmVideo-MySQL)
+![GitHub top language](https://img.shields.io/github/languages/top/otavioeiji/CursoEmVideo-MySQL)
 # CursoEmVideo
 ## MySQL
 
