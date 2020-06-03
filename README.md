@@ -1,3 +1,7 @@
-# CursoEmVideo-MySQL
+# CursoEmVideo
+## MySQL
+
 Acebei de realizar o curso de MySQL pela segunda vez no Curso em Video.
-As explicações são bem claras e finalmente entendi o conceito de Join. Parabéns ao Prof. Gustavo Guanabara.
+As explicações são bem claras e finalmente entendi o conceito de Joins. Parabéns ao Prof. Gustavo Guanabara.
+
+[https://www.cursoemvideo.com](https://www.cursoemvideo.com)
