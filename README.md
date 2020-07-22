@@ -7,7 +7,8 @@
 Acebei de realizar o curso de MySQL pela segunda vez no Curso em Video.
 As explicações são bem claras e finalmente entendi o conceito de Joins. Parabéns ao Prof. Gustavo Guanabara.
 
-Ferramentas utilizadas:
+## Recursos utilizados
+
 - MAMP
 - MySQL Workbench
 - PHP MyAdmin
